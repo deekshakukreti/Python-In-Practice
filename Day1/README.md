@@ -11,6 +11,7 @@ marks = {
 		alpha = [20,30,40]
 		beta = [70,60,90]
 	}
+	
 query_name = 'beta'
 
 Output : (70 + 60 + 90) / 3
